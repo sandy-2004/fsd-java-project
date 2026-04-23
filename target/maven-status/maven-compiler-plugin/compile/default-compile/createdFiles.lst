@@ -1,0 +1,5 @@
+com\project\ecom_BD\DemoApplication.class
+com\project\ecom_BD\controller\ProductController.class
+com\project\ecom_BD\repo\ProductRepo.class
+com\project\ecom_BD\service\ProductService.class
+com\project\ecom_BD\model\Product.class
