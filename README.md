@@ -1,10 +1,10 @@
-# 🚀 FSD Java Project
+#  FSD Java Project
 
 A full-stack web application built using Java-based backend technologies and a modern frontend stack. This project demonstrates end-to-end development, including API design, database integration, and responsive UI.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project is designed to simulate a real-world application workflow where users can interact with a system through a web interface, while the backend handles business logic, authentication, and data persistence.
 
@@ -17,25 +17,25 @@ It focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🔹 Backend
+###  Backend
 
 * Java
 * Spring Boot
 * REST API
 * Hibernate / JPA
 
-### 🔹 Frontend
+###  Frontend
 
 * HTML, CSS, JavaScript
   *(or React if you used it — update accordingly)*
 
-### 🔹 Database
+###  Database
 
 * MySQL / PostgreSQL *(update if different)*
 
-### 🔹 Tools & Others
+###  Tools & Others
 
 * Git & GitHub
 * Maven / Gradle
@@ -43,18 +43,18 @@ It focuses on:
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* 🔐 User Authentication & Authorization
-* 📊 CRUD Operations (Create, Read, Update, Delete)
-* 🌐 RESTful API integration
-* 📱 Responsive UI
-* 🔄 Client-server communication
-* 📦 Modular project structure
+*  User Authentication & Authorization
+*  CRUD Operations (Create, Read, Update, Delete)
+*  RESTful API integration
+*  Responsive UI
+*  Client-server communication
+*  Modular project structure
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fsd-java-project/
@@ -76,9 +76,9 @@ fsd-java-project/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/sandy-2004/fsd-java-project.git
@@ -87,7 +87,7 @@ cd fsd-java-project
 
 ---
 
-### 2️⃣ Backend Setup
+### 2️ Backend Setup
 
 ```bash
 cd backend
@@ -103,7 +103,7 @@ http://localhost:8080
 
 ---
 
-### 3️⃣ Frontend Setup
+### 3️ Frontend Setup
 
 ```bash
 cd frontend
@@ -119,7 +119,7 @@ http://localhost:3000
 
 ---
 
-## 🔗 API Endpoints (Sample)
+##  API Endpoints (Sample)
 
 | Method | Endpoint       | Description     |
 | ------ | -------------- | --------------- |
@@ -130,13 +130,13 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Add screenshots here for better presentation)*
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 * Understanding full-stack development workflow
 * Building REST APIs with Spring Boot
@@ -146,7 +146,7 @@ http://localhost:3000
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome. If you'd like to improve this project:
 
@@ -157,17 +157,17 @@ Contributions are welcome. If you'd like to improve this project:
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sandipan Saha**
 GitHub: https://github.com/sandy-2004
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+ If you found this project useful, consider giving it a star!
